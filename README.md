@@ -1,6 +1,9 @@
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=JeongHwan-dev&&style=flat-square" align="right" />
-</div>  
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeongHwan-dev&count_bg=%23769CDD&title_bg=%238E8E8E&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" align="right" />
+  </a>
+</div> 
+
 
 
 ## Hi there 👋
@@ -11,7 +14,7 @@
 </a>
 <a href="https://instagram.com/jeonghwan__05" target="_blank">
   <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram style="margin-bottom: 5px;" />
-</a>  
+</a>
 
 
 ### Hello, I'm Jeonghwan Park
@@ -26,7 +29,7 @@ If you want to contact me, please leave me a message!
 
 <br />
 
-### :computer: Languages and Tools
+### 🛠 Tech Stack
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
