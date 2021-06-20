@@ -74,6 +74,7 @@ If you want to contact me, please leave me a message!
 - 2nd 2019 Chungbuk Capstone Design Competition (LINC + / Oct 2019) (🥈Best Award) [:link:](http://www.cbiz.kr/news/articleView.html?idxno=17479)
 - 2019 Industry-Academic Cooperation EXPO LINC+ Capstone Design Competition (LINC + / Nov 2019) (Popularity Award) [:link:](http://www.dailysportshankook.co.kr/news/articleView.html?idxno=215869)
 - 2020 CBNU Capstone Design Graduation Exhibition (Information communication engineering / Nov 2020) (🥇Grand Award) [:link:](https://blog.naver.com/cbnuece/222162092864)
+- Elice AI Web Services Project 1st Racers' Demo Day (Elice / Jun 2021) (🥇Grand Award)
 
 
 ## Github Stats
@@ -81,10 +82,10 @@ If you want to contact me, please leave me a message!
 <table>
   <tr>
     <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=JeongHwan-dev&show_icons=true&count_private=true" align="left" style="width: 100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=JeongHwan-dev&show_icons=true&count_private=true&theme=react" align="left" style="width: 100%" />
     </td>
     <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeongHwan-dev&hide_border=true&layout=compact" align="left" style="width: 100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeongHwan-dev&hide_border=true&layout=compact&theme=react" align="left" style="width: 100%" />
     </td>
   </tr>
 </table>
