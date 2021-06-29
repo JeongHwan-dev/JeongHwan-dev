@@ -62,19 +62,23 @@ If you want to contact me, please leave me a message!
 
 
 ### 💫 Experience
-- **CBNU** - 1st SW Volunteer Crops (Jul 2019 ~ Dec 2019) [:link:](http://www.cbiz.kr/news/articleView.html?idxno=16944)
-- **CBNU** - 2nd SW Volunteer Crops (Apr 2020 ~ Dec 2020) [:link:](http://www.cbiz.kr/news/articleView.html?idxno=19221)
-- **HANCOM** - 2020 AI Programming Course (Jun 2020 ~ Aug 2020) [:link:](http://cbist.or.kr/home/sub.do?mncd=117&mode=view&no=14209060&searchCondition=9&searchKeyword=%EC%B6%A9%EC%B2%AD%EA%B6%8C)
-- **Chungbuk Global Game Center** - VR Game Programming Course (Jun 2020 ~ Aug 2020) [:link:](https://www.cjculture.org/home/sub.php?menukey=469&mod=view&no=14807&page=3&search=9&kwd=%EA%B2%8C%EC%9E%84&scode=00000003)
+- **SSAFY** - Samsung SW Academy For Youth (Web Full-Stack Course) (Jul 2021 ~ Jun 2020) [:link:](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
 - **Elice** - AI Service Planning and Development Track (Web Full-Stack Course) (Dec 2020 ~ Jun 2021) [:link:](https://elicetrack.oopy.io/)
+- **Chungbuk Global Game Center** - VR Game Programming Course (Jun 2020 ~ Aug 2020) [:link:](https://www.cjculture.org/home/sub.php?menukey=469&mod=view&no=14807&page=3&search=9&kwd=%EA%B2%8C%EC%9E%84&scode=00000003)
+- **HANCOM** - 2020 AI Programming Course (Jun 2020 ~ Aug 2020) [:link:](http://cbist.or.kr/home/sub.do?mncd=117&mode=view&no=14209060&searchCondition=9&searchKeyword=%EC%B6%A9%EC%B2%AD%EA%B6%8C)
+- **CBNU** - 2nd SW Volunteer Crops (Apr 2020 ~ Dec 2020) [:link:](http://www.cbiz.kr/news/articleView.html?idxno=19221)
+- **CBNU** - 1st SW Volunteer Crops (Jul 2019 ~ Dec 2019) [:link:](http://www.cbiz.kr/news/articleView.html?idxno=16944)
+
+
 
 
 ### :trophy: Competition
-- SPEID 2019 Global Capstone Design Competition (Japen, Yamaguchi University / Aug 2019) (🥇Grand Award) [:link:](http://www.cbiz.kr/news/articleView.html?idxno=17077)
-- 2nd 2019 Chungbuk Capstone Design Competition (LINC + / Oct 2019) (🥈Best Award) [:link:](http://www.cbiz.kr/news/articleView.html?idxno=17479)
-- 2019 Industry-Academic Cooperation EXPO LINC+ Capstone Design Competition (LINC + / Nov 2019) (Popularity Award) [:link:](http://www.dailysportshankook.co.kr/news/articleView.html?idxno=215869)
+- Elice AI Web Services Project 1st Racers' Demo Day (Elice / Jun 2021) (🥇Grand Award) :link:
 - 2020 CBNU Capstone Design Graduation Exhibition (Information communication engineering / Nov 2020) (🥇Grand Award) [:link:](https://blog.naver.com/cbnuece/222162092864)
-- Elice AI Web Services Project 1st Racers' Demo Day (Elice / Jun 2021) (🥇Grand Award)
+- 2nd 2019 Chungbuk Capstone Design Competition (LINC + / Oct 2019) (🥈Best Award) [:link:](http://www.cbiz.kr/news/articleView.html?idxno=17479)
+- SPEID 2019 Global Capstone Design Competition (Japen, Yamaguchi University / Aug 2019) (🥇Grand Award) [:link:](http://www.cbiz.kr/news/articleView.html?idxno=17077)
+
+
 
 
 ## Github Stats
