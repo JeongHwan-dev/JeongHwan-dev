@@ -8,15 +8,6 @@
 
 ## Hi there 👋
 
-
-<a href="https://github.com/JeongHwan-dev/" target="_blank">
-  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/jeonghwan__05" target="_blank">
-  <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram style="margin-bottom: 5px;" />
-</a>
-
-
 ### Hello, I'm Jeonghwan Park
 
 Good day!
