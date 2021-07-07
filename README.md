@@ -30,35 +30,21 @@ If you want to contact me, please leave me a message!
 <br />
 
 ### 🛠 Tech Stack
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a>
-  <a href="https://redux.js.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  </a> 
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a>
-  <a href="https://firebase.google.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a>
-</p>
+
+**Front-end**
+
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=white)
+- ![React](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux-764ABC?&logo=redux&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?&logo=bootstrap&logoColor=white) ![Material-UI](https://img.shields.io/badge/-Material_UI-0081CB?&logo=material-ui&logoColor=white)
+
+**Back-end**
+- ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?&logo=java&logoColor=white)
+- ![Flask](https://img.shields.io/badge/-Flask-333?&logo=flask&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?&logo=firebase&logoColor=white)
+
+**VR**
+- ![C_Sharp](https://img.shields.io/badge/-C_Sharp-484848?&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/-Unity-818181?&logo=unity&logoColor=white)
+
+**ETC**
+- ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?&logo=gitLab&logoColor=white)
 
 
 ### 💫 Experience
@@ -70,15 +56,11 @@ If you want to contact me, please leave me a message!
 - **CBNU** - 1st SW Volunteer Crops (Jul 2019 ~ Dec 2019) [:link:](http://www.cbiz.kr/news/articleView.html?idxno=16944)
 
 
-
-
 ### :trophy: Competition
 - Elice AI Web Services Project 1st Racers' Demo Day (Elice / Jun 2021) (🥇Grand Award) :link:
 - 2020 CBNU Capstone Design Graduation Exhibition (Information communication engineering / Nov 2020) (🥇Grand Award) [:link:](https://blog.naver.com/cbnuece/222162092864)
 - 2nd 2019 Chungbuk Capstone Design Competition (LINC + / Oct 2019) (🥈Best Award) [:link:](http://www.cbiz.kr/news/articleView.html?idxno=17479)
 - SPEID 2019 Global Capstone Design Competition (Japen, Yamaguchi University / Aug 2019) (🥇Grand Award) [:link:](http://www.cbiz.kr/news/articleView.html?idxno=17077)
-
-
 
 
 ## Github Stats
