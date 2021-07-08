@@ -25,7 +25,7 @@ If you want to contact me, please leave me a message!
 **Front-end**
 
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=white)
-- ![React](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux-764ABC?&logo=redux&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?&logo=bootstrap&logoColor=white) ![Material-UI](https://img.shields.io/badge/-Material_UI-0081CB?&logo=material-ui&logoColor=white)
+- ![React](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux-764ABC?&logo=redux&logoColor=white) ![Sass](https://img.shields.io/badge/-Sass-CC6699?&logo=sass&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?&logo=bootstrap&logoColor=white) ![Material-UI](https://img.shields.io/badge/-Material_UI-0081CB?&logo=material-ui&logoColor=white)
 
 **Back-end**
 - ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?&logo=java&logoColor=white)
