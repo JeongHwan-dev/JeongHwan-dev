@@ -35,7 +35,7 @@ If you want to contact me, please leave me a message!
 - ![C_Sharp](https://img.shields.io/badge/-C_Sharp-484848?&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/-Unity-818181?&logo=unity&logoColor=white)
 
 **ETC**
-- ![Markdown](https://img.shields.io/badge/-Markdown-1b1b1b?&logo=markdown&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?&logo=gitLab&logoColor=white)
+- [![Markdown](https://img.shields.io/badge/-Markdown-1b1b1b?&logo=markdown&logoColor=white)](https://github.com/JeongHwan-dev/markdown-guide) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?&logo=gitLab&logoColor=white)
 
 
 ### 💫 Experience
