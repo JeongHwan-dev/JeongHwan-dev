@@ -24,18 +24,18 @@ If you want to contact me, please leave me a message!
 
 **Front-end**
 
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=white)
-- ![React](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux-764ABC?&logo=redux&logoColor=white) ![Sass](https://img.shields.io/badge/-Sass-CC6699?&logo=sass&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?&logo=bootstrap&logoColor=white) ![Material-UI](https://img.shields.io/badge/-Material_UI-0081CB?&logo=material-ui&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=css3&logoColor=white) [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=white)](https://github.com/JeongHwan-dev/javascript-guide)
+- ![React](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux-764ABC?&logo=redux&logoColor=white) [![Sass](https://img.shields.io/badge/-Sass-CC6699?&logo=sass&logoColor=white)](https://github.com/JeongHwan-dev/sass-guide) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?&logo=bootstrap&logoColor=white) ![Material-UI](https://img.shields.io/badge/-Material_UI-0081CB?&logo=material-ui&logoColor=white)
 
 **Back-end**
 - ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?&logo=java&logoColor=white)
 - ![Flask](https://img.shields.io/badge/-Flask-333?&logo=flask&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?&logo=firebase&logoColor=white)
 
 **VR**
-- ![C_Sharp](https://img.shields.io/badge/-C_Sharp-484848?&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/-Unity-818181?&logo=unity&logoColor=white)
+- [![C_Sharp](https://img.shields.io/badge/-C_Sharp-484848?&logo=csharp&logoColor=white)](https://github.com/JeongHwan-dev/VR-FPS-Shooting-Game) [![Unity](https://img.shields.io/badge/-Unity-818181?&logo=unity&logoColor=white)](https://github.com/JeongHwan-dev/VR-FPS-Shooting-Game)
 
 **ETC**
-- [![Markdown](https://img.shields.io/badge/-Markdown-1b1b1b?&logo=markdown&logoColor=white)](https://github.com/JeongHwan-dev/markdown-guide) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?&logo=gitLab&logoColor=white)
+- [![Markdown](https://img.shields.io/badge/-Markdown-1b1b1b?&logo=markdown&logoColor=white)](https://github.com/JeongHwan-dev/markdown-guide) [![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=white)](https://github.com/JeongHwan-dev/git-guide) ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?&logo=gitLab&logoColor=white)
 
 
 ### 💫 Experience
