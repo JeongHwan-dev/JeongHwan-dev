@@ -6,7 +6,7 @@
 
 ## Hi there 👋
 
-### Hello, I'm Jeonghwan Park
+### Hello, I'm Jeong-hwan
 
 Good day!
 
