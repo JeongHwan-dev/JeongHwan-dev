@@ -31,13 +31,13 @@ If you want to contact me, please leave me a message!
 - ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?&logo=java&logoColor=white)
 - ![Flask](https://img.shields.io/badge/-Flask-333?&logo=flask&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?&logo=firebase&logoColor=white)
 
+**DevOps**
+
+- [![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=white)](https://github.com/JeongHwan-dev/git-guide) ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?&logo=gitLab&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github&logoColor=white)
+
 **VR**
 
 - [![C_Sharp](https://img.shields.io/badge/-C_Sharp-484848?&logo=csharp&logoColor=white)](https://github.com/JeongHwan-dev/VR-FPS-Shooting-Game) [![Unity](https://img.shields.io/badge/-Unity-818181?&logo=unity&logoColor=white)](https://github.com/JeongHwan-dev/VR-FPS-Shooting-Game)
-
-**ETC**
-
-- [![Markdown](https://img.shields.io/badge/-Markdown-1b1b1b?&logo=markdown&logoColor=white)](https://github.com/JeongHwan-dev/markdown-guide) [![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=white)](https://github.com/JeongHwan-dev/git-guide) ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?&logo=gitLab&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github&logoColor=white)
 
 ### 💫 Experience
 
