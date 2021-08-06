@@ -55,7 +55,7 @@ If you want to contact me, please leave me a message!
 - 2nd 2019 Chungbuk Capstone Design Competition (LINC + / Oct 2019) (🥈Best Award) [:link:](http://www.cbiz.kr/news/articleView.html?idxno=17479)
 - SPEID 2019 Global Capstone Design Competition (Japen, Yamaguchi University / Aug 2019) (🥇Grand Award) [:link:](http://www.cbiz.kr/news/articleView.html?idxno=17077)
 
-## Giub Stats
+## GitHub Stats
 
 <table>
   <tr>
