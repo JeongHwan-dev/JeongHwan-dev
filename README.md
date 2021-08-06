@@ -4,7 +4,7 @@
   </a>
 </div>
 
-## Hi there 👋
+<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" /></h2>
 
 ### Hello, I'm Jeong-hwan
 
@@ -41,7 +41,7 @@ If you want to contact me, please leave me a message!
 
 ### 💫 Experience
 
-- **SSAFY** - Samsung SW Academy For Youth 6th (Web Full-Stack Course) (Jul 2021 ~ Jun 2022) [:link:](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
+- **SSAFY** - Samsung SW Academy For Youth 6th (Web Full-Stack Course) (Jul 2021 ~ ing) [:link:](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
 - **Elice** - AI Service Planning and Development Track 1st (Web Full-Stack Course) (Dec 2020 ~ Jun 2021) [:link:](https://elicetrack.oopy.io/)
 - **Chungbuk Global Game Center** - VR Game Programming Course (Jun 2020 ~ Aug 2020) [:link:](https://www.cjculture.org/home/sub.php?menukey=469&mod=view&no=14807&page=3&search=9&kwd=%EA%B2%8C%EC%9E%84&scode=00000003)
 - **HANCOM** - 2020 AI Programming Course (Jun 2020 ~ Aug 2020) [:link:](http://cbist.or.kr/home/sub.do?mncd=117&mode=view&no=14209060&searchCondition=9&searchKeyword=%EC%B6%A9%EC%B2%AD%EA%B6%8C)
