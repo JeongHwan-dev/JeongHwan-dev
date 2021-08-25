@@ -14,9 +14,7 @@ If you want to contact me, please leave me a message!
 
 :email: jeonghwan.dev@gmail.com
 
-<img src="./img/coding2.gif" alt="Coding" height="200px" />
-
-<br />
+<img src="./img/coding.gif" alt="Coding" height="200px" />
 
 ### 🛠 Tech Stack
 
@@ -57,7 +55,7 @@ If you want to contact me, please leave me a message!
 
 ## GitHub Stats
 
-<table>
+<!-- <table>
   <tr>
     <td valign="top" width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=JeongHwan-dev&show_icons=true&count_private=true&theme=react" align="left" style="width: 100%" />
@@ -66,4 +64,9 @@ If you want to contact me, please leave me a message!
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeongHwan-dev&hide_border=true&layout=compact&theme=react" align="left" style="width: 100%" />
     </td>
   </tr>
-</table>
+</table> -->
+
+<p align="left">
+      <img src="https://github-readme-stats.vercel.app/api?username=JeongHwan-dev&show_icons=true&count_private=true&theme=react" alt="Github Stats" height="150px" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeongHwan-dev&hide_border=true&layout=compact&theme=react" alt="Top Languages" height="150px" />
+</p>
