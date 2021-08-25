@@ -8,13 +8,13 @@
 
 ### Hello, I'm Jeong-hwan
 
-Good day!
-
 I am studying to be a Front-end developer.
 
 If you want to contact me, please leave me a message!
 
 :email: jeonghwan.dev@gmail.com
+
+<img src="./img/coding2.gif" alt="Coding" height="200px" />
 
 <br />
 
