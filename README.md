@@ -38,7 +38,7 @@
 
 - **SSAFY** - 삼성 청년 SW 아카데미 6기 (Web Full-Stack Course) (Jul 2021 ~ ing) [:link:](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
 - **elice** - 엘리스 AI 서비스 기획 개발 트랙 1기 (Web Full-Stack Course) (Dec 2020 ~ Jun 2021) [:link:](https://elicetrack.oopy.io/)
-- **Chungbuk Global Game Center** - 충북 게임 아카데미 VR 프로그래밍 코스 (Jun 2020 ~ Aug 2020) [:link:](https://www.cjculture.org/home/sub.php?menukey=469&mod=view&no=14807&page=3&search=9&kwd=%EA%B2%8C%EC%9E%84&scode=00000003)
+- **Chungbuk Global Game Center** - 충북 게임 아카데미 (VR Programming Course) (Jun 2020 ~ Aug 2020) [:link:](https://www.cjculture.org/home/sub.php?menukey=469&mod=view&no=14807&page=3&search=9&kwd=%EA%B2%8C%EC%9E%84&scode=00000003)
 - **HANCOM** - 충청권 인공지능 교육 프로그램 (Jun 2020 ~ Aug 2020) [:link:](http://cbist.or.kr/home/sub.do?mncd=117&mode=view&no=14209060&searchCondition=9&searchKeyword=%EC%B6%A9%EC%B2%AD%EA%B6%8C)
 - **CBNU** - SW중심대학사업단 SW봉사단 2기 (Apr 2020 ~ Dec 2020) [:link:](http://www.cbiz.kr/news/articleView.html?idxno=19221)
 - **CBNU** - SW중심대학사업단 SW봉사단 1기 (Jul 2019 ~ Dec 2019) [:link:](http://www.cbiz.kr/news/articleView.html?idxno=16944)
