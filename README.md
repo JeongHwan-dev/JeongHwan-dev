@@ -6,11 +6,10 @@
 
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" /></h2>
 
-개발을 즐기고 UI/UX 개선을 고민하는 **프론트엔드 개발자 박정환**입니다.
+[개발](#)을 좋아하고 [UI/UX 개선](#)을 고민하는 **프론트엔드 개발자 박정환**입니다.  
+개발을 통해 [사회적](#) 또는 [비즈니스 문제](#)를 [해결](#)하는 개발자로 성장하기 위해 끊임없이 노력합니다.
 
-개발을 통해 사회적 또는 비즈니스 문제를 해결하는 개발자로 성장하기 위해 끊임없이 노력합니다.
-
-:email: jeonghwan.dev@gmail.com
+> :email: jeonghwan.dev@gmail.com
 
 <img src="./img/coding.gif" alt="Coding" height="200px" />
 
