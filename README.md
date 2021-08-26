@@ -6,11 +6,9 @@
 
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" /></h2>
 
-### Hello, I'm Jeong-hwan
+개발을 즐기고 UI/UX 개선에 노력하는 **프론트엔드 개발자 박정환**입니다.
 
-I am studying to be a Front-end developer.
-
-If you want to contact me, please leave me a message!
+개발을 통해 사회적, 비즈니스적 문제를 해결하는 개발자를 목표로 합니다.
 
 :email: jeonghwan.dev@gmail.com
 
@@ -54,17 +52,6 @@ If you want to contact me, please leave me a message!
 - SPEID 2019 Global Capstone Design Competition (Japen, Yamaguchi University / Aug 2019) (🥇Grand Award) [:link:](http://www.cbiz.kr/news/articleView.html?idxno=17077)
 
 ## GitHub Stats
-
-<!-- <table>
-  <tr>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=JeongHwan-dev&show_icons=true&count_private=true&theme=react" align="left" style="width: 100%" />
-    </td>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeongHwan-dev&hide_border=true&layout=compact&theme=react" align="left" style="width: 100%" />
-    </td>
-  </tr>
-</table> -->
 
 <p align="left">
       <img src="https://github-readme-stats.vercel.app/api?username=JeongHwan-dev&show_icons=true&count_private=true&theme=react" alt="Github Stats" height="150px" />
