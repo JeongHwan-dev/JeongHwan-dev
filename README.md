@@ -9,9 +9,9 @@
 [**개발**](#)을 좋아하고 [**UI/UX 개선**](#)을 고민하는 **프론트엔드 개발자 박정환**입니다.  
 개발을 통해 [**사회적**](#) 또는 [**비즈니스 문제**](#)를 [**해결**](#)하는 개발자로 성장하기 위해 끊임없이 노력합니다.
 
-> :email: jeonghwan.dev@gmail.com
-
 <img src="./img/coding.gif" alt="Coding" height="200px" />
+
+> :mailbox_with_mail: E-mail : jeonghwan.dev@gmail.com
 
 ### 🛠 Tech Stack
 
@@ -36,19 +36,19 @@
 
 ### 💫 Experience
 
-- **SSAFY** - Samsung SW Academy For Youth 6th (Web Full-Stack Course) (Jul 2021 ~ ing) [:link:](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
-- **Elice** - AI Service Planning and Development Track 1st (Web Full-Stack Course) (Dec 2020 ~ Jun 2021) [:link:](https://elicetrack.oopy.io/)
-- **Chungbuk Global Game Center** - VR Game Programming Course (Jun 2020 ~ Aug 2020) [:link:](https://www.cjculture.org/home/sub.php?menukey=469&mod=view&no=14807&page=3&search=9&kwd=%EA%B2%8C%EC%9E%84&scode=00000003)
-- **HANCOM** - 2020 AI Programming Course (Jun 2020 ~ Aug 2020) [:link:](http://cbist.or.kr/home/sub.do?mncd=117&mode=view&no=14209060&searchCondition=9&searchKeyword=%EC%B6%A9%EC%B2%AD%EA%B6%8C)
-- **CBNU** - 2nd SW Volunteer Crops (Apr 2020 ~ Dec 2020) [:link:](http://www.cbiz.kr/news/articleView.html?idxno=19221)
-- **CBNU** - 1st SW Volunteer Crops (Jul 2019 ~ Dec 2019) [:link:](http://www.cbiz.kr/news/articleView.html?idxno=16944)
+- **SSAFY** - 삼성 청년 SW 아카데미 6기 (Web Full-Stack Course) (Jul 2021 ~ ing) [:link:](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
+- **elice** - 엘리스 AI 서비스 기획 개발 트랙 1기 (Web Full-Stack Course) (Dec 2020 ~ Jun 2021) [:link:](https://elicetrack.oopy.io/)
+- **Chungbuk Global Game Center** - 충북 게임 아카데미 VR 프로그래밍 코스 (Jun 2020 ~ Aug 2020) [:link:](https://www.cjculture.org/home/sub.php?menukey=469&mod=view&no=14807&page=3&search=9&kwd=%EA%B2%8C%EC%9E%84&scode=00000003)
+- **HANCOM** - 충청권 인공지능 교육 프로그램 (Jun 2020 ~ Aug 2020) [:link:](http://cbist.or.kr/home/sub.do?mncd=117&mode=view&no=14209060&searchCondition=9&searchKeyword=%EC%B6%A9%EC%B2%AD%EA%B6%8C)
+- **CBNU** - SW중심대학사업단 SW봉사단 2기 (Apr 2020 ~ Dec 2020) [:link:](http://www.cbiz.kr/news/articleView.html?idxno=19221)
+- **CBNU** - SW중심대학사업단 SW봉사단 1기 (Jul 2019 ~ Dec 2019) [:link:](http://www.cbiz.kr/news/articleView.html?idxno=16944)
 
 ### :trophy: Competition
 
-- Elice AI Web Services Project 1st Racers' Demo Day (Elice / Jun 2021) (🥇Grand Award) :link:
-- 2020 CBNU Capstone Design Graduation Exhibition (Information communication engineering / Nov 2020) (🥇Grand Award) [:link:](https://blog.naver.com/cbnuece/222162092864)
-- 2nd 2019 Chungbuk Capstone Design Competition (LINC + / Oct 2019) (🥈Best Award) [:link:](http://www.cbiz.kr/news/articleView.html?idxno=17479)
-- SPEID 2019 Global Capstone Design Competition (Japen, Yamaguchi University / Aug 2019) (🥇Grand Award) [:link:](http://www.cbiz.kr/news/articleView.html?idxno=17077)
+- 엘리스 인공지능 웹 서비스 프로젝트 데모 데이 (elice / Jun 2021) (🥇대상) [:link:](https://www.notion.so/1st-Racers-Demo-Day-bfb433fa22014d02813c30ac243fe883)
+- 2020 CBNU 전자정보대학 캡스톤 디자인 졸업작품전 (CBNU / Nov 2020) (🥇대상) [:link:](https://blog.naver.com/cbnuece/222162092864)
+- 충북권 대학 캡스톤 디자인 경진대회 (LINC + / Oct 2019) (🥈최우수상) [:link:](http://www.cbiz.kr/news/articleView.html?idxno=17479)
+- SPEID 2019 한중일 글로벌 캡스톤 디자인 경진대회 (Japen, Yamaguchi University / Aug 2019) (🥇대상) [:link:](http://www.cbiz.kr/news/articleView.html?idxno=17077)
 
 ## GitHub Stats
 
