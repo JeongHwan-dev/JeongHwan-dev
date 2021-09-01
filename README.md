@@ -11,6 +11,8 @@
 
 <img src="./img/coding.gif" alt="Coding" height="200px" />
 
+> [**노션**](https://freezing-cobweb-11c.notion.site/8ded3e07719a4c0aba04d6d8d241ec9e)에서 저의 이력을 확인하실 수 있습니다. (2021.09. 업데이트)
+
 > :mailbox_with_mail: E-mail : jeonghwan.dev@gmail.com
 
 ### 🛠 Tech Stack
