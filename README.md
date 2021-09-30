@@ -15,13 +15,12 @@
 
 <img src="./img/coding.gif" alt="Coding" height="200px" />
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
 **Languages**
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&style=flat-square&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&style=flat-square&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?&style=flat-square&logo=typescript&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?&style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?&style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&style=flat-square&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?&style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?&style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?&style=flat-square&logo=python&logoColor=white)
 
 **Libraries & Frameworks**
 
@@ -35,7 +34,7 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?&style=flat-square&logo=webpack&logoColor=white)  
 ![Git](https://img.shields.io/badge/-Git-F05032?&style=flat-square&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?&style=flat-square&logo=gitLab&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&style=flat-square&logo=github&logoColor=white)
 
-### 💫 Experience
+## 💫 Experience
 
 - **SSAFY** - 삼성 청년 SW 아카데미 6기 (Web Full-Stack Course) (Jul 2021 ~ ing) [:link:](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
 - **elice** - 엘리스 AI 서비스 기획 개발 트랙 1기 (Web Full-Stack Course) (Dec 2020 ~ Jun 2021) [:link:](https://elicetrack.oopy.io/)
@@ -44,7 +43,7 @@
 - **CBNU** - SW중심대학사업단 SW봉사단 2기 (Apr 2020 ~ Dec 2020) [:link:](http://www.cbiz.kr/news/articleView.html?idxno=19221)
 - **CBNU** - SW중심대학사업단 SW봉사단 1기 (Jul 2019 ~ Dec 2019) [:link:](http://www.cbiz.kr/news/articleView.html?idxno=16944)
 
-### :trophy: Competition
+## :trophy: Competition
 
 - 엘리스 인공지능 웹 서비스 프로젝트 데모 데이 (elice / Jun 2021) (🥇대상) [:link:](https://www.notion.so/1st-Racers-Demo-Day-bfb433fa22014d02813c30ac243fe883)
 - 2020 CBNU 전자정보대학 캡스톤 디자인 졸업작품전 (CBNU / Nov 2020) (🥇대상) [:link:](https://blog.naver.com/cbnuece/222162092864)
