@@ -35,10 +35,6 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?&style=flat-square&logo=webpack&logoColor=white)  
 ![Git](https://img.shields.io/badge/-Git-F05032?&style=flat-square&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?&style=flat-square&logo=gitLab&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&style=flat-square&logo=github&logoColor=white)
 
-**ETC**
-
-- ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=python&logoColor=white)
-
 ### 💫 Experience
 
 - **SSAFY** - 삼성 청년 SW 아카데미 6기 (Web Full-Stack Course) (Jul 2021 ~ ing) [:link:](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
