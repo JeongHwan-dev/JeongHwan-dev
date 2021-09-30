@@ -28,7 +28,7 @@
 
 - ![Java](https://img.shields.io/badge/-Java-007396?&logo=java&logoColor=white)
 
-**DevOps**
+**DevOps & Tools**
 
 - [![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=white)](https://github.com/JeongHwan-dev/git-guide) ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?&logo=gitLab&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github&logoColor=white)
 
