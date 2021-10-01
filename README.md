@@ -50,7 +50,7 @@
 - 충북권 대학 캡스톤 디자인 경진대회 (LINC + / Oct 2019) (🥈최우수상) [:link:](http://www.cbiz.kr/news/articleView.html?idxno=17479)
 - SPEID 2019 한중일 글로벌 캡스톤 디자인 경진대회 (Japen, Yamaguchi University / Aug 2019) (🥇대상) [:link:](http://www.cbiz.kr/news/articleView.html?idxno=17077)
 
-## GitHub Stats
+## :chart_with_upwards_trend: GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=JeongHwan-dev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0d1017" alt="Github Stats" height="150px" />
