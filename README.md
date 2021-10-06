@@ -24,9 +24,12 @@
 
 **Libraries & Frameworks**
 
-![React](https://img.shields.io/badge/-React-61DAFB?&style=flat-square&logo=react&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux-764ABC?&style=flat-square&logo=redux&logoColor=white)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?&style=flat-square&logo=Node.js&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?&style=flat-square&logo=bootstrap&logoColor=white) ![Material-UI](https://img.shields.io/badge/-Material_UI-0081CB?&style=flat-square&logo=material-ui&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?&style=flat-square&logo=react&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue_js-4FC08D?&style=flat-square&logo=Vue.js&logoColor=white)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?&style=flat-square&logo=Node.js&logoColor=white)    
+![Redux](https://img.shields.io/badge/-Redux-764ABC?&style=flat-square&logo=redux&logoColor=white)    
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?&style=flat-square&logo=bootstrap&logoColor=white) ![Material-UI](https://img.shields.io/badge/-Material_UI-0081CB?&style=flat-square&logo=material-ui&logoColor=white)  
+
+
 
 **DevOps & Tools**
 
