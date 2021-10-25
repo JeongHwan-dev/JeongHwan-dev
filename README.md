@@ -26,9 +26,9 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?&style=flat-square&logo=bootstrap&logoColor=white) ![Material-UI](https://img.shields.io/badge/-Material_UI-0081CB?&style=flat-square&logo=material-ui&logoColor=white)  
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?&style=flat-square&logo=webpack&logoColor=white)  
 
-**Back-end**
+<!-- **Back-end**
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?&style=flat-square&logo=Node.js&logoColor=white)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?&style=flat-square&logo=Node.js&logoColor=white)   -->
 
 **Version Control**
 
@@ -55,7 +55,7 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=JeongHwan-dev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0d1017" alt="Github Stats" height="150px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeongHwan-dev&hide_border=true&layout=compact&theme=react&bg_color=0d1017" alt="Top Languages" height="150px" />
-  <br />
-  <img src="https://activity-graph.herokuapp.com/graph?username=JeongHwan-dev&theme=react-dark&hide_border=true" alt="Github Activity Graph" width="700px" />
+<!--   <br /> -->
+<!--   <img src="https://activity-graph.herokuapp.com/graph?username=JeongHwan-dev&theme=react-dark&hide_border=true" alt="Github Activity Graph" width="700px" /> -->
 </p>
 
