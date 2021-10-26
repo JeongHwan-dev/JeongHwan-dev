@@ -55,7 +55,7 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=JeongHwan-dev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0d1017" alt="Github Stats" height="150px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeongHwan-dev&hide_border=true&layout=compact&theme=react&bg_color=0d1017" alt="Top Languages" height="150px" />
-<!--   <br /> -->
-<!--   <img src="https://activity-graph.herokuapp.com/graph?username=JeongHwan-dev&theme=react-dark&hide_border=true" alt="Github Activity Graph" width="700px" /> -->
+  <br />
+  <img src="https://activity-graph.herokuapp.com/graph?username=JeongHwan-dev&theme=react-dark&hide_border=true" alt="Github Activity Graph" width="700px" />
 </p>
 
