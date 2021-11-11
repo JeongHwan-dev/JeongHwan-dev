@@ -9,7 +9,7 @@
 [**개발**](#)을 좋아하고 [**UI/UX 개선**](#)을 고민하는 **프론트엔드 개발자 박정환**입니다.  
 [**사회적 문제**](#) 그리고 [**비즈니스 문제**](#)를 [**해결**](#)하는 개발자로 성장하기 위해 끊임없이 노력합니다.
 
-> [**노션**](https://freezing-cobweb-11c.notion.site/8ded3e07719a4c0aba04d6d8d241ec9e) 또는 [**박정환\_이력서.pdf**](https://github.com/JeongHwan-dev/JeongHwan-dev/박정환_이력서.pdf)에서 저의 이력을 확인하실 수 있습니다. (2021.11. 업데이트)
+> [**노션**](https://freezing-cobweb-11c.notion.site/8ded3e07719a4c0aba04d6d8d241ec9e) 또는 [**박정환\_이력서.pdf**](https://github.com/JeongHwan-dev/JeongHwan-dev/raw/main/files/%EB%B0%95%EC%A0%95%ED%99%98_%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf)에서 저의 이력을 확인하실 수 있습니다. (2021.11. 업데이트)
 
 > :mailbox_with_mail: E-mail : jeonghwan.dev@gmail.com
 
