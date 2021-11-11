@@ -9,7 +9,7 @@
 [**개발**](#)을 좋아하고 [**UI/UX 개선**](#)을 고민하는 **프론트엔드 개발자 박정환**입니다.  
 [**사회적 문제**](#) 그리고 [**비즈니스 문제**](#)를 [**해결**](#)하는 개발자로 성장하기 위해 끊임없이 노력합니다.
 
-> [**노션**](https://freezing-cobweb-11c.notion.site/8ded3e07719a4c0aba04d6d8d241ec9e)에서 저의 이력을 확인하실 수 있습니다. (2021.11. 업데이트)
+> [**노션**](https://freezing-cobweb-11c.notion.site/8ded3e07719a4c0aba04d6d8d241ec9e) 또는 [**박정환\_이력서.pdf**](https://github.com/JeongHwan-dev/JeongHwan-dev/박정환_이력서.pdf)에서 저의 이력을 확인하실 수 있습니다. (2021.11. 업데이트)
 
 > :mailbox_with_mail: E-mail : jeonghwan.dev@gmail.com
 
@@ -19,11 +19,11 @@
 
 **Front-end**
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&style=flat-square&logo=css3&logoColor=white) ![Sass](https://img.shields.io/badge/-Sass-CC6699?&style=flat-square&logo=sass&logoColor=white)     
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&style=flat-square&logo=javascript&logoColor=white)     
-![React](https://img.shields.io/badge/-React-61DAFB?&style=flat-square&logo=react&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue_js-4FC08D?&style=flat-square&logo=Vue.js&logoColor=white)               
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&style=flat-square&logo=css3&logoColor=white) ![Sass](https://img.shields.io/badge/-Sass-CC6699?&style=flat-square&logo=sass&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&style=flat-square&logo=javascript&logoColor=white)  
+![React](https://img.shields.io/badge/-React-61DAFB?&style=flat-square&logo=react&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue_js-4FC08D?&style=flat-square&logo=Vue.js&logoColor=white)  
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?&style=flat-square&logo=bootstrap&logoColor=white) ![Material-UI](https://img.shields.io/badge/-Material_UI-0081CB?&style=flat-square&logo=material-ui&logoColor=white)  
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?&style=flat-square&logo=webpack&logoColor=white)  
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?&style=flat-square&logo=webpack&logoColor=white)
 
 <!-- **Back-end**
 
@@ -57,4 +57,3 @@
   <br />
   <img src="https://activity-graph.herokuapp.com/graph?username=JeongHwan-dev&theme=react-dark&hide_border=true" alt="Github Activity Graph" width="700px" />
 </p>
-
