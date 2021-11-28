@@ -43,7 +43,7 @@
 - **CBNU** - SW중심대학사업단 SW봉사단 1기 (Jul 2019 ~ Dec 2019) [:link:](http://www.cbiz.kr/news/articleView.html?idxno=16944)
 
 ## :trophy: Competition
-
+- 삼성 청년 SW 아카데미 1학기 최종 관통 프로젝트 (SSAFY / Nov 2021) (🥇최우수상 / 서울 11반 1등) [:link:](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
 - 엘리스 인공지능 웹 서비스 프로젝트 데모 데이 (elice / Jun 2021) (🥇대상) [:link:](https://www.notion.so/1st-Racers-Demo-Day-bfb433fa22014d02813c30ac243fe883)
 - 2020 CBNU 전자정보대학 캡스톤 디자인 졸업작품전 (CBNU / Nov 2020) (🥇대상) [:link:](https://blog.naver.com/cbnuece/222162092864)
 - 충북권 대학 캡스톤 디자인 경진대회 (LINC + / Oct 2019) (🥈최우수상) [:link:](http://www.cbiz.kr/news/articleView.html?idxno=17479)
