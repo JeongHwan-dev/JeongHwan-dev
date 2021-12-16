@@ -24,14 +24,6 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?&style=flat-square&logo=react&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?&style=flat-square&logo=Vue.js&logoColor=white) ![Vuex](https://img.shields.io/badge/-Vuex-34495e?&style=flat-square&logo=Vue.js&logoColor=white)  
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?&style=flat-square&logo=webpack&logoColor=white)
 
-<!-- **Back-end**
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?&style=flat-square&logo=Node.js&logoColor=white)   -->
-
-**Version Control**
-
-![Git](https://img.shields.io/badge/-Git-F05032?&style=flat-square&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?&style=flat-square&logo=gitLab&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&style=flat-square&logo=github&logoColor=white)
-
 ## 💫 Experience
 
 - **SSAFY** - 삼성 청년 SW 아카데미 6기 (Web Full-Stack Course) (Jul 2021 ~ ing) [:link:](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
