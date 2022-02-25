@@ -9,7 +9,7 @@
 [**개발**](#)을 좋아하고 [**UI/UX 개선**](#)을 고민하는 **프론트엔드 개발자 박정환**입니다.  
 [**사회적 문제**](#) 그리고 [**비즈니스 문제**](#)를 [**해결**](#)하는 개발자로 성장하기 위해 끊임없이 노력합니다.
 
-> [**노션**](https://freezing-cobweb-11c.notion.site/8ded3e07719a4c0aba04d6d8d241ec9e)에서 저의 이력을 확인하실 수 있습니다. (2021.12. 업데이트)
+> [**노션**](https://freezing-cobweb-11c.notion.site/8ded3e07719a4c0aba04d6d8d241ec9e)에서 저의 이력을 확인하실 수 있습니다. (2022.02. 업데이트)
 
 > :mailbox_with_mail: E-mail : jeonghwan.dev@gmail.com
 
