@@ -20,13 +20,13 @@
 **Front-end**
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&style=flat-square&logo=css3&logoColor=white) ![Sass](https://img.shields.io/badge/-Sass-CC6699?&style=flat-square&logo=sass&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&style=flat-square&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?&style=flat-square&logo=TypeScript&logoColor=white)   
-![React](https://img.shields.io/badge/-React-61DAFB?&style=flat-square&logo=react&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux-764ABC?&style=flat-square&logo=redux&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?&style=flat-square&logo=Vue.js&logoColor=white) ![Vuex](https://img.shields.io/badge/-Vuex-34495e?&style=flat-square&logo=Vue.js&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&style=flat-square&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?&style=flat-square&logo=TypeScript&logoColor=white)  
+![React](https://img.shields.io/badge/-React-61DAFB?&style=flat-square&logo=react&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux-764ABC?&style=flat-square&logo=redux&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?&style=flat-square&logo=Vue.js&logoColor=white) ![Vuex](https://img.shields.io/badge/-Vuex-34495e?&style=flat-square&logo=Vue.js&logoColor=white)
 
 ## 💫 Experience
 
-- **SSAFY** - 삼성 청년 SW 아카데미 6기 (Web Full-Stack Course) (Jul 2021 ~ ing) [:link:](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
-- **elice** - 엘리스 AI 서비스 기획 개발 트랙 1기 (Web Full-Stack Course) (Dec 2020 ~ Jun 2021) [:link:](https://elicetrack.oopy.io/1e3c9b9f-fcbe-4f22-8a17-416deb670dba)
+- **SSAFY** - 삼성 청년 SW 아카데미 6기 (Web Full-Stack Course) (2021.07. ~ 2022.04.) [:link:](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
+- **elice** - 엘리스 AI 서비스 기획 개발 트랙 1기 (Web Full-Stack Course) (2020.12. ~ 2021.06.) [:link:](https://elicetrack.oopy.io/1e3c9b9f-fcbe-4f22-8a17-416deb670dba)
 
 ## :chart_with_upwards_trend: GitHub Stats
 
