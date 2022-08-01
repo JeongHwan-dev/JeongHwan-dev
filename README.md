@@ -23,7 +23,12 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&style=flat-square&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?&style=flat-square&logo=TypeScript&logoColor=white)  
 ![React](https://img.shields.io/badge/-React-61DAFB?&style=flat-square&logo=react&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux-764ABC?&style=flat-square&logo=redux&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?&style=flat-square&logo=Next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?&style=flat-square&logo=Vue.js&logoColor=white) ![Vuex](https://img.shields.io/badge/-Vuex-34495e?&style=flat-square&logo=Vue.js&logoColor=white)
 
-## 💫 Experience
+## 👨🏻‍💻 Careers
+
+- **LG U+** Front-end Developer (2022.05. ~ ing)
+- **LG U+** Front-end Developer(intern) (2022.04. ~ 2022.05)
+
+## 📚 Education
 
 - **SSAFY** - 삼성 청년 SW 아카데미 6기 (2021.07. ~ 2022.04.) [:link:](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
 - **elice** - 엘리스 AI 서비스 기획 개발 트랙 1기 (2020.12. ~ 2021.06.) [:link:](https://elicetrack.oopy.io/1e3c9b9f-fcbe-4f22-8a17-416deb670dba)
