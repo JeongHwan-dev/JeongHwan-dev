@@ -24,7 +24,7 @@
 ## 👨🏻‍💻 Careers
 
 - **LG U+** Front-end Developer (2022.05. ~ ing)
-- **LG U+** Front-end Developer(intern) (2022.04. ~ 2022.05)
+- **LG U+** Front-end Developer(intern) (2022.04. ~ 2022.05.)
 
 ## 📚 Education
 
