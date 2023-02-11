@@ -31,10 +31,10 @@
 - **SSAFY** - 삼성 청년 SW 아카데미 6기 (2021.07. ~ 2022.04.) [:link:](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
 - **elice** - 엘리스 AI 서비스 기획 개발 트랙 1기 (2020.12. ~ 2021.06.) [:link:](https://elicetrack.oopy.io/1e3c9b9f-fcbe-4f22-8a17-416deb670dba)
 
-<!-- 
+
 ## :chart_with_upwards_trend: GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=JeongHwan-dev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0d1017" alt="Github Stats" height="150px" />
-  <img src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=JeongHwan-dev&hide_border=true&layout=compact&theme=react&bg_color=0d1017" alt="Top Languages" height="150px" />
-</p> -->
+<!--   <img src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=JeongHwan-dev&hide_border=true&layout=compact&theme=react&bg_color=0d1017" alt="Top Languages" height="150px" /> -->
+</p>
