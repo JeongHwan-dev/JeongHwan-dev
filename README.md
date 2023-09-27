@@ -15,12 +15,6 @@
 
 <img src="./img/coding.gif" alt="Coding" height="200px" />
 
-## 🛠 Tech Stack
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&style=flat-square&logo=css3&logoColor=white) ![Sass](https://img.shields.io/badge/-Sass-CC6699?&style=flat-square&logo=sass&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&style=flat-square&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?&style=flat-square&logo=TypeScript&logoColor=white)  
-![React](https://img.shields.io/badge/-React-61DAFB?&style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?&style=flat-square&logo=Next.js&logoColor=white) ![React Query](https://img.shields.io/badge/-React_Query-FF4154?&style=flat-square&logo=React-Query&logoColor=white)
-
 ## 👨🏻‍💻 Careers
 
 - **LG U+** Front-end Developer (2022.05. ~ ing)
