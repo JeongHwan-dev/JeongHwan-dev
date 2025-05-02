@@ -1,9 +1,3 @@
-<div align="right">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeongHwan-dev&count_bg=%23769CDD&title_bg=%238E8E8E&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" align="right" />
-  </a>
-</div>
-
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" /></h2>
 
 [**꾸준한 배움**](#)을 통해 [**지속 성장**](#)하는 **프론트엔드 개발자 박정환**입니다.  
