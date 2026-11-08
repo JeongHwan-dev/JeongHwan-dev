@@ -1,9 +1,6 @@
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" /></h2>
 
 [**꾸준한 배움**](#)을 통해 [**지속 성장**](#)하는 **프론트엔드 개발자 박정환**입니다.  
-[**사회적 문제**](#) 그리고 [**비즈니스 문제**](#)를 [**해결**](#)하는 개발자로 성장하기 위해 끊임없이 노력합니다.
-
-<img src="./img/coding.gif" alt="Coding" height="200px" />
 
 ## 👨🏻‍💻 Careers
 
